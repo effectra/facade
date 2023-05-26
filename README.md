@@ -7,7 +7,7 @@ The `Facade` class is a utility class that provides a simplified interface to ac
 The `Facade` class is a standalone class and doesn't require any installation. You can simply include the class file in your project.
 
 ```php
-require_once 'path/to/Facade.php';
+composer require effectra/facade
 ```
 
 ## Usage
